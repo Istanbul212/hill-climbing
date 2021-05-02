@@ -1,0 +1,3 @@
+-allow for multiprocessing
+-allow for batch work by providing a function to generate a random point,
+or providing a list of all points of intiialization (random-restart?)
